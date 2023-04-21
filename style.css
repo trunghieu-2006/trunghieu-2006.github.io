@@ -273,7 +273,7 @@ header input{
         top: 0;
         display: grid;
         grid-template-columns: 1fr;
-        grid-template-rows: repeat(5, 70px);
+        grid-template-rows: repeat(10, 60px);
         transform: translateX(-100%);
         transition: 0.5s;
     }
