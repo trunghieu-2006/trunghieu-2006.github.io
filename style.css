@@ -224,7 +224,7 @@ header input{
 /* iPads (portrait and landscape) ----------- */
 @media only screen and (max-width:1024px) {
 	/* Styles */
-    header  ul{
+    header ul{
     }
     .banner{
         grid-template-columns: 40% 60%;
