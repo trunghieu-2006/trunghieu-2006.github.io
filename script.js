@@ -134,3 +134,5 @@ function calcRate(r) {
     id = 'star' + f + (r % f ? 'half' : '')
     id && (document.getElementById(id).checked = !0)
    }
+
+
